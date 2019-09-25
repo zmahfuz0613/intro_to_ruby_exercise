@@ -6,7 +6,7 @@
 
 ### 2. ALGO PRACTICE - EST TIME: 30min
 
-1. Fork and Clone this [repo](https://repl.it/@jkeohan/Ruby-Reverse-A-String-Starter)
+1. Fork and Clone this [repl](https://repl.it/@jkeohan/Ruby-Reverse-A-String-Starter)
 2. Add a link to the HW-9/25 tab in the following spreadsheet [spreadsheet](https://docs.google.com/spreadsheets/d/1y0U-Fsz8m46YnDpso4bLmhEHDKsEm6PpIFCYJaEusm0/edit#gid=112290677)
 3. MUST include pseudocode before solving the problem
 
