@@ -18,5 +18,5 @@
 2. Answer the following questions: 
  ***What is unique about the ES6 fat arrow and how do you leverage that uniqueness in a React project?***
 3. Answers must be at least a paragraph in length.
-4. Add a link to your doc in the Tech column to the following [spreadheet](https://docs.google.com/spreadsheets/d/1euUTbD66oTp7FaZTPp17iuMz4WhNNYtUeyvPMWqmKsI/edit?usp=sharing).
+4. Add a link to your doc in the ***Tech*** column to the following [spreadheet](https://docs.google.com/spreadsheets/d/1euUTbD66oTp7FaZTPp17iuMz4WhNNYtUeyvPMWqmKsI/edit?usp=sharing).
 
