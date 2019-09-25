@@ -1,4 +1,4 @@
-# Sequelize...Node/Express...Algos...Interview Questions
+# Ruby...Algos...Interview Questions
 
 ### 1. Ruby - EST TIME: 60min
 
