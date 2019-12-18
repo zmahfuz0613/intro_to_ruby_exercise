@@ -173,10 +173,3 @@ table = {
 
 
 2. Write a method named `print_item_sums` that will take in two hashes and will return the sum of the prices for the items in the hashes.
-
-
-&#x1F534; **Commit your work**
-<hr>
----
-
-*Copyright 2019, General Assembly Space. Licensed under [CC-BY-NC-SA, 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)*
